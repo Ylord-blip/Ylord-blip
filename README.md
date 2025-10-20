@@ -26,5 +26,5 @@ Além de programação, gosto de:
 ## 🎨 Meus hobbies
 
 <p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="500">
+<img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400">
 </p>
