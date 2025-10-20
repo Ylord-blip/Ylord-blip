@@ -1,6 +1,6 @@
 💻 Tecnologia e desenvolvimento web
 
-## Olá, me chamo Pedro, tenho 19 anos e estou cursando o curso ciência da computação na Universidade IESB
+## Olá, me chamo Pedro, tenho 20 anos e estou cursando o curso ciência da computação na Universidade IESB
 Tenho facilidade e certo conhecimento intermediário em HTML e CSS.
 Gosto de um bom video game e uma boa música de fundo.
 
