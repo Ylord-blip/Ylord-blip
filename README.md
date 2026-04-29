@@ -2,7 +2,7 @@
 
 ## 👋 Olá, me chamo Pedro!
 
-Tenho 20 anos e estou cursando **Ciência da Computação** na **Universidade IESB**.  
+Tenho 20 anos e estou cursando **Ciência da Computação** na **Universidade UDF Campos Sede/4R**.  
 Tenho facilidade e conhecimento intermediário em **HTML** e **CSS**.  
 
 Além de programação, gosto de:  
