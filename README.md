@@ -20,7 +20,7 @@ Atualmente cursando **Ciência da Computação** na UDF. Sou apaixonado por reso
 
 ## 📌 Projetos em Destaque
 
-### 🍎 [Nome do Repositório iFood Clone]
+### 🍎 [Food-Website-HTML-CSS-JAVASCRIPT iFood Clone]
 Interface inspirada no iFood focada em experiência do usuário (UX).
 - **Tecnologias:** HTML, CSS (Design Responsivo).
 - **Destaque:** Implementação de layout fluido e organização de componentes.
@@ -38,8 +38,6 @@ Landing page completa para [objetivo do site].
 ---
 
 ## 📊 Minhas contribuições no GitHub
-
-
 
 <p align="center">
   <picture>
