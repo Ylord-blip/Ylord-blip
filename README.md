@@ -1,4 +1,4 @@
-# 💻 Ciência da Computação | Desenvolvedor Web & Python
+# 💻 Engenharia de Software | Desenvolvedor Web & Python
 
 ## 👋 Olá, eu sou o Pedro!
 
